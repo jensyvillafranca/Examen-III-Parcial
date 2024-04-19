@@ -11,7 +11,7 @@ namespace Firebase_modelo_singleton.Models{
         private readonly FirebaseClient firebaseClient;
 
         private Singleton(){
-            firebaseClient = new FirebaseClient("https://examen3-6b4c5-default-rtdb.firebaseio.com/");
+            firebaseClient = new FirebaseClient("https://examenmovil2-iiiparcial-default-rtdb.firebaseio.com/");
         }
 
         public static Singleton Instance{
