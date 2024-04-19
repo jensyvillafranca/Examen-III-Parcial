@@ -13,12 +13,12 @@ namespace Firebase_modelo_singleton
     public partial class Page_update : ContentPage
     {
         private Notas personaSeleccionada;
-        string authdomain = "examen3-6b4c5.firebaseapp.com";
-        string apikey = "AIzaSyDALVHE7IaqdY9xuDAm7nP88fiuroQDTCM";
-        string email = "ramonmatute2003@gmail.com";
-        string password = "Matute_10";
+        string authdomain = "examenmovil2-iiiparcial.firebaseapp.com";
+        string apikey = "AIzaSyDMXlCZv_hJUJQ6W2UY8k21r4QZbAumkD8";
+        string email = "jensylorena2402@gmail.com";
+        string password = "123456";
         string token = string.Empty;
-        string rutastorage = "examen3-6b4c5.appspot.com";
+        string rutastorage = "examenmovil2-iiiparcial.appspot.com";
         string lblaudio;
         string lbl_photo;
         private readonly IAudioRecorder _audioRecorder;
